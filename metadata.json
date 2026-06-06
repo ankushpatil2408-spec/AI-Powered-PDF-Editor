@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Universal PDF Editor",
+  "description": "An AI-powered document editor enabling in-place PDF text modification and formatting preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
