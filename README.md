@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Universal PDF Editor
+# 🚀 AI-Powered PDF Editor
 
 > **Edit PDFs Like Word. Powered by AI.**
 
